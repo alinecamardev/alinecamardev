@@ -1,4 +1,4 @@
-### I'm Aline Camargos  👋
+<h1>I'm Aline Camargos 👋</h1>
 
 <p><i>System Analyst - Frontend Developer</i></p>
 
@@ -6,8 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alined3v/)](https://www.linkedin.com/in/alined3v/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aline.d3v@gmail.com)](mailto:aline.d3v@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alinecamar/)](https://www.instagram.com/alinecamar/)
-
-<h1></h1>
 
 <p><b>Conheça muito bem algo, seja específico.</b> Não tente fazer tudo sem ter o conhecimento teórico e prático bem estabelecidos. Conhecimento é a chave e a pressa seu pior pesadelo. 🔑 </p>
 <br>
