@@ -14,6 +14,7 @@
 - 🌱 Pretendo aprender: UI/UX, React, Vue.js, WordPress;
 - ⚡ Habilidades: HTML, CSS e JS (inicialmente);
 - 🖤 Apaixonada por: Desenvolvimento Web;
+- 👩‍🎓 Graduada em Ciência da Computação;
 
 <!--
 <p align="center">
