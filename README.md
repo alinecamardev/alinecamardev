@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4>📌 Frase p/ Vida:</h4>
+<h4>📌 Obs:</h4>
 <p align="center"><b>Conheça muito bem algo, seja específico.</b> Não tente fazer tudo sem ter o conhecimento teórico e prático bem estabelecidos. Conhecimento é a chave e a pressa seu pior pesadelo. 🔑 </p>
 <br>
 
