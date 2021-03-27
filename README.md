@@ -11,8 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>📌 Obs:</h4>
-<p align="center"><b>Conheça muito bem algo, seja específico.</b> Não tente fazer tudo sem ter o conhecimento teórico e prático bem estabelecidos. Conhecimento é a chave e a pressa seu pior pesadelo. 🔑 </p>
-<br>
+<p align="center"><b>Conheça muito bem algo, seja específico.</b> Não tente fazer tudo sem ter o conhecimento teórico e prático bem estabelecidos. <br>Conhecimento é a chave e a pressa seu pior pesadelo. 🔑 </p>
 
 <p align="center">
  <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=alinecamardev.alinecamardev" />
