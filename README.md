@@ -10,16 +10,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4>📌 Obs:</h4>
-<p align="center"><b>Conheça muito bem algo, seja específico.</b> Não tente fazer tudo sem ter o conhecimento teórico e prático bem estabelecidos. <br>Conhecimento é a chave e a pressa seu pior pesadelo. 🔑 </p>
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas;
+- 🌱 Pretendo aprender: UI/UX, React, Vue.js, WordPress;
+- ⚡ Habilidades: HTML, CSS e JS (inicialmente);
+- 🖤 Apaixonada por: Desenvolvimento Web;
 
+<!--
 <p align="center">
  <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=alinecamardev.alinecamardev" />
 </p>
-
-
-
-
+-->
 <!--
 **alinecamardev/alinecamardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
