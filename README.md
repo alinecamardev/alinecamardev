@@ -1,4 +1,5 @@
-<h1>I'm Aline Camargos 👋</h1>
+<h1>Hi! I'm Aline Camargos 👋</h1>
+
 
 <p><i>System Analyst - Frontend Developer</i></p>
 
@@ -7,11 +8,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aline.d3v@gmail.com)](mailto:aline.d3v@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alinecamar/)](https://www.instagram.com/alinecamar/)
 
-<p><b>Conheça muito bem algo, seja específico.</b> Não tente fazer tudo sem ter o conhecimento teórico e prático bem estabelecidos. Conhecimento é a chave e a pressa seu pior pesadelo. 🔑 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h4>📌 Frase p/ Vida:</h4>
+<p align="center"><b>Conheça muito bem algo, seja específico.</b> Não tente fazer tudo sem ter o conhecimento teórico e prático bem estabelecidos. Conhecimento é a chave e a pressa seu pior pesadelo. 🔑 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+<p align="center">
+ <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=alinecamardev.alinecamardev" />
+</p>
+
+
+
 
 <!--
 **alinecamardev/alinecamardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
