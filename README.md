@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Atualmente estou trabalhando como Analista de Sistemas;
-- 🌱 Pretendo aprender: UI/UX, React, Vue.js, WordPress;
+- 🌱 Pretendo aprender: UI/UX, React, Vue.js, WordPress, Typescript;
 - ⚡ Habilidades: HTML, CSS e JS (inicialmente);
 - 🖤 Apaixonada por: Desenvolvimento Web;
 - 👩‍🎓 Graduada em Ciência da Computação;
