@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aline.d3v@gmail.com)](mailto:aline.d3v@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alinecamar/)](https://www.instagram.com/alinecamar/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecamardev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 - 🔭 Atualmente estou trabalhando como Analista de Sistemas;
 - 🌱 Pretendo aprender: UI/UX, React, Vue.js, WordPress, Typescript;
