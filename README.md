@@ -4,7 +4,7 @@
 <p><i>System Analyst - Frontend Developer</i></p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alinecamardev)](https://github.com/alinecamardev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinecamardev/)](https://www.linkedin.com/in/alinecamardev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinecamardev/)](https://www.linkedin.com/in/alinecamargospinto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aline.d3v@gmail.com)](mailto:aline.d3v@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alinecamar/)](https://www.instagram.com/alinecamar/)
 
