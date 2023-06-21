@@ -9,7 +9,6 @@
 
 - 🔭 Full Stack Developer / Chatbot Developer;
 - ⚡ Tecnologias: SQL Server / T-SQL, Lógica de Programação, Javascript / Jquery, Linguagem C#, ASP .Net Core, Protocolo Rest, HTML, CSS, DevExpress(DevExtreme), Pré processador SASS;
-- 🖤 Apaixonada por: Desenvolvimento Web;
 - 👩‍🎓 Graduada em Ciência da Computação (Universidade de Itaúna - UIT);
 
 <!--
